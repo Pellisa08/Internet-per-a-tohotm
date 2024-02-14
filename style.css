@@ -1,0 +1,68 @@
+*{
+    background-color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#img_logo{
+    position: absolute;   
+    right: 10px; 
+    top: 10px;
+    width: 100%;
+    width: 150px;
+    border:solid black 3px;
+}
+#ttl_ong{
+    text-align: center;
+    text-decoration: underline black;
+}
+#meni li{
+    vertical-align: top;
+    text-align: center;
+    padding: 10px;
+    display: inline;
+    font-size: 25px;
+    height: 10px;
+    width: max-content;
+}
+#objectius p{
+        height: max-content;
+        width: 35%;
+        text-align:start;    
+}
+#img_logo2{
+    position: absolute;
+    right: 25%;
+    top: 25%;
+    border:solid black 3px;
+}
+#PRINCIPIS p{
+    position: absolute;
+    top:15%;
+    left: 37%;
+    width: 35%;
+    height: max-content;
+}
+#Activitats p{
+    position: absolute;
+    top:15%;
+    right: 10%;
+    width: 35%;
+    height: max-content;
+}
+#pc1{
+    position: absolute;
+    right: 10%;
+    top: 65%;
+    width: 400px;
+}
+#pc2{
+    position: absolute;
+    left: 33%;
+    top: 50%;
+    width: 350px;
+}
+#pc3{
+    position: absolute;
+    left:5%;
+    top: 35%;
+    width: 350px;   
+}
